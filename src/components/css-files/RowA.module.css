@@ -1,0 +1,17 @@
+#aDiv {
+ width: 25%;
+ height: 550px;
+}
+
+#aImg {
+ width: 100%;
+ height: 70%;
+}
+
+#aText {
+ padding: 20px;
+}
+
+#aText1 {
+ margin-bottom: 10px;
+}

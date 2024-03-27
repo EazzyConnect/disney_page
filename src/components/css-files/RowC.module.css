@@ -1,0 +1,19 @@
+#cDiv {
+ width: 20%;
+}
+
+#cImg {
+ width: 100%;
+ height: 70%;
+}
+
+#cTitle {
+ margin: 10px 0;
+ font-size: large;
+ font-weight: lighter;
+}
+
+#cDesc {
+ font-size: large;
+ font-weight: lighter;
+}

@@ -1,0 +1,68 @@
+#navBar {
+ height: 15vh;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ padding: 0 15px;
+}
+
+#navBar1 {
+ width: 20%;
+}
+
+#disneyBtn {
+ font-family: 'Waltograph', sans-serif;
+ font-size: 50px;
+ margin-top: -50px;
+ border: none;
+ cursor: pointer;
+}
+
+#navBar2 {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ width: 80%;
+ height: 100px;
+}
+
+#navBtn {
+ border: none;
+ font-weight: bold;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ cursor: pointer;
+}
+
+.dropDown {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ gap: 10px;
+ height: 40px;
+}
+
+#navBtnArr {
+ border: none;
+ cursor: pointer;
+}
+
+#navSearch {
+ display: flex;
+ align-items: center;
+ height: 50px;
+}
+
+#navInput {
+ height: 50px;
+ width: 140px;
+ padding: 5px;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ margin-top: -15px;
+}
+
+#navInputBtn {
+ cursor: pointer;
+ height: 50px;
+ width: 40px;
+ margin-top: -15px;
+}

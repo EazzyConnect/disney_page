@@ -1,0 +1,22 @@
+#aDiv {
+ width: 25%;
+ background-color: rgb(8, 6, 32);
+ height: 550px;
+}
+
+#aImg {
+ width: 100%;
+ height: 70%;
+}
+
+#aText {
+ padding: 30px;
+ background-color: rgb(8, 6, 32);
+ color: white;
+}
+
+#aText1,
+#aText2 {
+ background-color: rgb(8, 6, 32);
+ margin-bottom: 10px;
+}
