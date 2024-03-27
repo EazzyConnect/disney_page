@@ -327,9 +327,9 @@ export const Disney = ({ }) => {
 
      <div id={disneyCSS.bottomDiv1}>
       <i className="fa-brands fa-instagram"></i>
-      <i class="fa-brands fa-x-twitter"></i>
-      <i class="fa-brands fa-facebook"></i>
-      <i class="fa-brands fa-youtube"></i>
+      <i className="fa-brands fa-x-twitter"></i>
+      <i className="fa-brands fa-facebook"></i>
+      <i className="fa-brands fa-youtube"></i>
       <p>Go to SNS list</p>
      </div>
 

@@ -27,42 +27,42 @@ const App = () => {
 
           <div className={AppCSS.dropDown}>
             <button id={AppCSS.navBtn} onClick={() => toggleTab("Shopping")}>Shopping</button>
-            <button id={AppCSS.navBtnArr}><i class="fa-solid fa-chevron-down"></i></button>
+            <button id={AppCSS.navBtnArr}><i className="fa-solid fa-chevron-down"></i></button>
           </div>
 
           <div className={AppCSS.dropDown}>
             <button id={AppCSS.navBtn} onClick={() => toggleTab("Movie")}>Movie</button>
-            <button id={AppCSS.navBtnArr}><i class="fa-solid fa-chevron-down"></i></button>
+            <button id={AppCSS.navBtnArr}><i className="fa-solid fa-chevron-down"></i></button>
           </div>
 
           <div className={AppCSS.dropDown}>
             <button id={AppCSS.navBtn} onClick={() => toggleTab("TV")}>TV</button>
-            <button id={AppCSS.navBtnArr}><i class="fa-solid fa-chevron-down"></i></button>
+            <button id={AppCSS.navBtnArr}><i className="fa-solid fa-chevron-down"></i></button>
           </div>
 
           <div className={AppCSS.dropDown}>
             <button id={AppCSS.navBtn} onClick={() => toggleTab("Parks")}>Parks & Resorts</button>
-            <button id={AppCSS.navBtnArr}><i class="fa-solid fa-chevron-down"></i></button>
+            <button id={AppCSS.navBtnArr}><i className="fa-solid fa-chevron-down"></i></button>
           </div>
 
           <div className={AppCSS.dropDown}>
             <button id={AppCSS.navBtn} onClick={() => toggleTab("Music")}>Music</button>
-            <button id={AppCSS.navBtnArr}><i class="fa-solid fa-chevron-down"></i></button>
+            <button id={AppCSS.navBtnArr}><i className="fa-solid fa-chevron-down"></i></button>
           </div>
 
           <div className={AppCSS.dropDown}>
             <button id={AppCSS.navBtn} onClick={() => toggleTab("Events")}>Live & Events </button>
-            <button id={AppCSS.navBtnArr}><i class="fa-solid fa-chevron-down"></i></button>
+            <button id={AppCSS.navBtnArr}><i className="fa-solid fa-chevron-down"></i></button>
           </div>
 
           <div className={AppCSS.dropDown}>
             <button id={AppCSS.navBtn} onClick={() => toggleTab("Game")}>Game</button>
-            <button id={AppCSS.navBtnArr}><i class="fa-solid fa-chevron-down"></i></button>
+            <button id={AppCSS.navBtnArr}><i className="fa-solid fa-chevron-down"></i></button>
           </div>
 
           <div className={AppCSS.dropDown}>
             <button id={AppCSS.navBtn} onClick={() => toggleTab("Kids")}>Kids</button>
-            <button id={AppCSS.navBtnArr}><i class="fa-solid fa-chevron-down"></i></button>
+            <button id={AppCSS.navBtnArr}><i className="fa-solid fa-chevron-down"></i></button>
           </div>
 
           <div className={AppCSS.dropDown}>
@@ -72,7 +72,7 @@ const App = () => {
 
           <div id={AppCSS.navSearch}>
             <input id={AppCSS.navInput} type="text" placeholder='Search within the site' />
-            <button id={AppCSS.navInputBtn}><i class="fa-solid fa-magnifying-glass"></i></button>
+            <button id={AppCSS.navInputBtn}><i className="fa-solid fa-magnifying-glass"></i></button>
           </div>
 
         </div>
